@@ -16,9 +16,7 @@
       "sizes": "512x512",
       "type": "image/png"
     }
-  ]
-}
-{
+  ],
   "screenshots": [
     {
       "src": "https://i.hizliresim.com/1vepk4h.png",
@@ -31,11 +29,7 @@
       "sizes": "640x480",
       "type": "image/png",
       "form_factor": "small"
-    }
-  ]
-}
-{
-  "screenshots": [
+    },
     {
       "src": "https://i.hizliresim.com/tnbd014.png",
       "sizes": "360x640",
